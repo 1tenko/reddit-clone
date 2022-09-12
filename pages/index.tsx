@@ -10,8 +10,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Reddit clone</title>
       </Head>
-
-      <Header />
     </div>
   );
 };
