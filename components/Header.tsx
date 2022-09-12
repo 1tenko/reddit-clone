@@ -7,7 +7,7 @@ import {
 } from '@heroicons/react/24/solid';
 import {
   BellIcon,
-  ChatBubbleOvalLeftIcon,
+  ChatBubbleOvalLeftEllipsisIcon,
   GlobeAltIcon,
   PlusIcon,
   SparklesIcon,
@@ -50,7 +50,7 @@ function Header() {
         <GlobeAltIcon className="icon" />
         <VideoCameraIcon className="icon" />
         <hr className="h-10 border border-gray-100" />
-        <ChatBubbleOvalLeftIcon className="icon" />
+        <ChatBubbleOvalLeftEllipsisIcon className="icon" />
         <BellIcon className="icon" />
         <PlusIcon className="icon" />
         <MegaphoneIcon className="icon" />
